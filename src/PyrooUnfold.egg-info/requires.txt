@@ -1,0 +1,7 @@
+numpy
+pandas
+palettable
+
+[testing]
+pytest
+pytest-cov

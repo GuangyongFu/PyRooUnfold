@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: PyrooUnfold
+Version: 2.0.0.post0.dev3+g8adfe7d.dirty
+Summary: Python adapter for RooUnfold package
+Home-page: https://pyscaffold.org/
+Author: Lu Cao
+Author-email: lu.cao@desy.de
+License: mit
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: palettable
+Provides-Extra: testing
+Requires-Dist: pytest; extra == "testing"
+Requires-Dist: pytest-cov; extra == "testing"
